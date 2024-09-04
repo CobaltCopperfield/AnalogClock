@@ -26,8 +26,8 @@ The model is compiled with the Adam optimizer and categorical cross-entropy loss
 
 ## Technologies Used
 
-Python 3.x
-TensorFlow/Keras
-OpenCV
-NumPy
-Matplotlib
+1. Python 3.x
+2. TensorFlow/Keras
+3. OpenCV
+4. NumPy
+5. Matplotlib
