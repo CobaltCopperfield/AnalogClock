@@ -23,3 +23,11 @@ The model is a Convolutional Neural Network (CNN) with the following structure:
    - A softmax layer with `720` units, representing each minute in a 12-hour period.
 
 The model is compiled with the Adam optimizer and categorical cross-entropy loss. It is trained for up to 100 epochs with early stopping to prevent overfitting.
+
+## Technologies Used
+
+Python 3.x
+TensorFlow/Keras
+OpenCV
+NumPy
+Matplotlib
